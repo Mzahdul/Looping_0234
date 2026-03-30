@@ -37,3 +37,11 @@ void pilihanjurusan() {
             statuskota = "Error: Kode Tidak Valid";
     }
 }
+
+//prosedu
+void output() {
+    cout << "\n=== HASIL SELEKSI ===" << endl;
+    cout << " jurusan pilihan : " << namajurusan << endl;
+    cout << " status kota : " << statuskota << endl;
+    cout << "-------------------------------" << endl;
+}
