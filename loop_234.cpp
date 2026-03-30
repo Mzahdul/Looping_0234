@@ -93,4 +93,8 @@ int main(){
     float niLB,NiLM,rerata;
     string status;
 
+    cout<<"Masukan Nilai Matematika = ";
+    cin>>NiLM;                                       
+    cout<<"Masukan Nilai Bahasa Inggris = ";
+    cin>>niLB;
 }
