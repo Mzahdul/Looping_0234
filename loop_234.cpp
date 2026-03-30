@@ -84,3 +84,13 @@ int maint(){
         status = "Tidak Lulus";
     cout<<"Status Kelulusan = "<<status<<" , dengan nilai rata-rata = "<<rerata<<endl;
 }
+
+//logical AND
+#include <iostream> 
+using namespace std;
+
+int main(){
+    float niLB,NiLM,rerata;
+    string status;
+
+}
