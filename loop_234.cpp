@@ -37,3 +37,18 @@ int main(){
     cout<<"bilangan acak do...while yang terakhir ="<<x <<endl;
     cout<<endl;
 }
+
+//Logika not
+#include <iostream>
+using namespace std;
+
+int main(){
+    float niLB,NiLM,rerata;
+    string status;
+
+    cout<<"Masukan Nilai Matematika = ";
+    cin>>NiLM;
+    cout<<"Masukan Nilai Bahasa Inggris = ";
+    cin>>niLB;
+}
+    
