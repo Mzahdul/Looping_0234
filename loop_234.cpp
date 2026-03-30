@@ -23,4 +23,17 @@ int main(){
         cout<<"angka acak: "<<x<<endl;
         x = rand()%10;
     }
+
+    cout<<"bilangan acak while yang terakhir ="<<x <<endl;
+    cout<<endl;
+
+    //perulangan dengan DO...WHILE
+    cout<<"perulangan DO...WHILE"<<endl;
+    x = 1 + rand()%10;
+    do{
+        cout<<"angka acak: "<<x<<endl;
+        x = rand()%10;
+    }while(x<=5);
+    cout<<"bilangan acak do...while yang terakhir ="<<x <<endl;
+    cout<<endl;
 }
