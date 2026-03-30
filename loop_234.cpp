@@ -59,3 +59,14 @@ int main(){
 
     cout<<"Status Kelulusan = "<<status<<" , dengan nilai rata-rata = "<<rerata<<endl;
 }
+
+//Logika or
+#include <iostream>
+using namespace std;
+
+int maint(){
+    float niLB,NiLM,rerata;
+    string status;
+
+
+}
