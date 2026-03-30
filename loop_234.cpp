@@ -68,5 +68,15 @@ int maint(){
     float niLB,NiLM,rerata;
     string status;
 
+    float niLB,NiLM,rerata;
+    string status;
 
+    cout<<"masukan nilai matematika = ";
+    cin>>NiLM;
+    cout<<"masukan nilai bahasa inggris = ";
+    cin>>niLB;
+
+    rerata = (niLB+NiLM)/2;
+
+    
 }
